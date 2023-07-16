@@ -25,7 +25,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Service and Work History
 
 `April 2023 - Present`
-__Procument Assisstant__, Colorado Spring, Colorado
+__Procument Assisstant__, Colorado Spring, Colorado <!-- Including the name of the company in your resume can provide valuable context to recruiters regarding the specific industry experience you possess. --> 
 
 - Communicate with vendors
 - Collaborate effectively with team members
@@ -44,7 +44,13 @@ __Missionary__, Tempe, Arizona
 - Served individuals and the community
 - Used social media to reach diverse audiences
 
-
+## Skills <!-- Given your limited experience, highlighting your skills can be an effective way to demonstrate your value. By showcasing your skill set, interviewers can gain insight into the specific abilities you possess and assess how they can be beneficial to the company. --> 
+<!-- These are example of skills you can add. --> 
+- Programming Languages: Python, R, SQL
+- Data Visualization
+- Problem-solving
+- Teamwork
+- Communication
 
 <!-- ### Footer
 
